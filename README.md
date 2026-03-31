@@ -1,8 +1,8 @@
-**E-Commerce Sales Performance Analysis – Internship Project Overview**
+**E-Commerce Sales Performance Analysis**
 
-This repository contains an end-to-end data analytics internship project focused on analyzing e-commerce sales data and building an interactive Power BI dashboard.
+This project focuses on analyzing e-commerce sales data using Excel and Power BI to identify trends, patterns, and derive meaningful business insights.
 
-The project emphasizes data cleaning, reasoning, and insight generation, rather than just visualization.
+The objective of this project is to understand sales performance, customer behavior, and key revenue drivers through data cleaning, analysis, and visualization.
 
 **What This Project Covers**
 
@@ -23,7 +23,3 @@ The project emphasizes data cleaning, reasoning, and insight generation, rather 
 + UK dominates revenue and demand
 + Revenue-leading products differ from volume-leading products
 + Midday hours show peak sales activity
-
-**Purpose**
-
-This project was completed as part of an internship task to simulate real-world business analytics work.
